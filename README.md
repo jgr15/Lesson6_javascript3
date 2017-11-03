@@ -13,7 +13,7 @@ Web Application Development
 (Create a photo gallery with navigation buttons.)
 
 ### View Project:
-https://github.com/jgr15/Lesson6_javascript3 
+https://jgr15.github.io/Lesson6_javascript3/  
 
 
 ### Lessons Learned in the Assignment:
